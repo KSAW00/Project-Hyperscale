@@ -20,8 +20,30 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "597b85ef526ea235",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "KanBan.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "KanBan"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,6 +220,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "29c92c9002d235f8",
-  "lastOpenFiles": []
+  "active": "0232ad516d0e1de5",
+  "lastOpenFiles": [
+    "Drawing 2026-09-10 19.56.05.excalidraw.md",
+    "KanBan.md",
+    "README.md"
+  ]
 }
