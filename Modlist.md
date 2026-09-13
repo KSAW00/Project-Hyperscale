@@ -117,6 +117,7 @@
 - [Farmer's Delight](https://modrinth.com/mod/R2OftAxM) [1\.3\.4]
 - [Ferrite Core](https://modrinth.com/mod/uXXizFIs) [7\.0\.3]
 - [Fix Flashback](https://www.curseforge.com/projects/1641505) [1\.0\.3]
+- [Flashback](https://flashback.moulberry.com/) [0\.39\.8]
 - [Forgified Fabric API](https://modrinth.com/mod/Aqlf1Shp) [0\.116\.14\+2\.3\.0\+1\.21\.1]
 - [Fusion](https://modrinth.com/mod/p19vrgc2) [1\.3\.15\+a]
 - [Fzzy Config](https://modrinth.com/mod/hYykXjDp) [0\.7\.6\+1\.21\+neoforge]
